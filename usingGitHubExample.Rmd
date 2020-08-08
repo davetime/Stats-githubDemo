@@ -1,9 +1,10 @@
 ---
 title: "Finding correlations in the newStarwars dataset"
 author: "Kirsty Kitto"
-output:
+output :
   html_document: default
   html_notebook: default
+#test  
 ---
 
 Kirsty is having fun
@@ -158,6 +159,5 @@ Insert some text here
 #Code blocks can go inside these quoted delimeters
 
 ```
-
 
 
